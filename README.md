@@ -1,2 +1,2 @@
-# LDfuzz
-A fuzzing framework for smart contract
+# 扫雷
+扫雷辅助
