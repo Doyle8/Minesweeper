@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"雷区的高"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>winmine.exe+5338</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"雷区的高2"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>winmine.exe+56A8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"雷区的宽"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>winmine.exe+5334</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"雷区的宽2"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>winmine.exe+56AC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"雷区的基地址"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>winmine.exe+5361</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
